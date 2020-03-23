@@ -2,8 +2,8 @@
   "devToolsPort": 19002,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 15956,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null
+  "packagerPid": 25316,
+  "expoServerNgrokUrl": "https://ix-mi4.anonymous.prismagram-app.exp.direct",
+  "packagerNgrokUrl": "https://packager.ix-mi4.anonymous.prismagram-app.exp.direct",
+  "ngrokPid": 25904
 }
